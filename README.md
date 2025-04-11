@@ -1,16 +1,26 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Truong Vu
-=================================================================================================================================
 
-I\`m Web developer
-------------------
+<!-- Dynamic Header with Gradient Text and Animated Elements -->
 
-* 🌍  I'm based in Vietnam
-* ✉️  You can contact me at [truongvunguyen3434@gmail.com](mailto:truongvunguyen3434@gmail.com)
-* 🚀  I'm currently working on [Booing Movie App](http://github.com/Gorochiko/Cinevie)
-* 🧠  I'm learning Flutter
 
-<a href="https://www.github.com/Gorochiko" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Gorochiko?logo=github&style=for-the-badge&color=ffffff&labelColor=0f172a" /></a>
+<div align="center">
+  <h1>
+    ✨ I`m Truong Vu ✨
+  </h1>
+  
+  <h2>
+    🚀 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 🚀
+  </h2>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Gorochiko&label=Profile+Views&color=3B82F6&style=flat" alt="Profile views" />
+    <a href="https://github.com/Gorochiko?tab=followers">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Gorochiko?color=3B82F6&label=Followers&style=flat">
+    </a>
+  </p>
+</div>
+
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
 
 ### Skills
 
@@ -28,14 +38,14 @@ src="https://img.shields.io/github/followers/Gorochiko?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Gorochiko"><img src="https://github-readme-stats.vercel.app/api?username=Gorochiko&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=84cc16&icon_color=ffffff&bg_color=0f172a&hide_border=true&show_icons=true" alt="Gorochiko's GitHub stats" /></a>
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gorochiko&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorochiko&layout=compact&langs_count=8&theme=radical" /> </div><div align="center"> <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gorochiko&theme=radical" alt="Gorochiko's streak" /> </div>
 
-<a href="http://www.github.com/Gorochiko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gorochiko&stroke=84cc16&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=84cc16&currStreakLabel=3382ed&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Gorochiko&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="Gorochiko's trophies" /> </div>
 
-<a href="http://www.github.com/Gorochiko"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gorochiko&bg_color=0f172a&color=84cc16&line=ffffff&point=84cc16&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Gorochiko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorochiko&langs_count=10&title_color=3382ed&text_color=84cc16&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<details> <summary>📈 Weekly Development Breakdown</summary> <br/> <!--START_SECTION:waka-->
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Gorochiko/Cinevie" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gorochiko&repo=Cinevie&title_color=3382ed&text_color=84cc16&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<!--END_SECTION:waka--></details> ```
